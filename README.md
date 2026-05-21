@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Docker HTTPS Login Project
 
 ## Descrizione
@@ -32,3 +33,7 @@ Il sito utilizza certificato SSL self-signed.
 - PDO prepared statements
 - Sessioni sicure
 - HTTPS obbligatorio
+=======
+# AWSProject
+Prima Repository per Progetto Scolastico utilizzando AWS EC2 &amp; Docker
+>>>>>>> 745c75ffbcb06bc24716b13fa21b320172e12a2d
