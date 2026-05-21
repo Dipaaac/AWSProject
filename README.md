@@ -20,8 +20,8 @@ docker compose up -d --build
 
 ## Credenziali Demo
 
-prof1 / password123
-prof2 / password123
+RickyPrime / password123
+Meccariello / password123
 
 ## HTTPS
 
